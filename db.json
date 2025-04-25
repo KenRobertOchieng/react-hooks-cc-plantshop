@@ -41,6 +41,13 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "sjkskjdl",
+      "image": "/mango_milkshake.jpeg",
+      "price": 0.17,
+      "inStock": true,
+      "id": 8
     }
   ]
 }
